@@ -1,0 +1,27 @@
+---
+layout: post
+title: A New Beginning
+categories: intro
+author:
+- Aaron Jones
+meta: "Amazing Truth Bible School"
+---
+
+A new beginning, to this development process, as I learn how to create and develop websites and web applications from a whole new perspective. Understanding that, the websites that I want to create are not going to be considered static websites any longer. Rather, I will take the approach of creating them statically and then developing them further utilizing whatever stack fits the problem. 
+
+For the time being, I am learning how to use Angular, Vue, Next, Nuxt, and React JavaScript Frameworks, so that I may become better accustomed to building a website utilizing these frameworks. I am not limiting myself, though, I plan on learning how to utilize Java and Python to build web applications as well. Though my skills are very beginner and I am barely gaining an understanding of how to utilize JavaScript Vanilla and just now learning about ES6 and beyond. At times it seems like things can become complicated to say the least but now I am learning the difference between the types of developers it takes to solve a given problem. 
+
+Learning the Front-End, Back-End, and Full Stack development process has helped me gain a clearer picture of the larger scope of things. Though yet, I have to experience the difficulties that will really challenge me as I process in my development career. 
+
+## Development of Amazing Truth Bible School
+
+Orginally, I had built this site utilizing only WordPress and I was not unfortunately able to keep up with the server costs of maintaining the server. As luck would have it though, there are opportunities abound to host a website nowadays, and the option that I am going to be utilizing is called Firebase. Firebase, from my perspective, is a watered-down version of the Google Cloud Platform meant to make it easier for developers to pump out their web applications and such. Unfortunately for me the process has become somewhat of a nightmare as I wrestle with understanding and grasping the tools that it provides. I will though overtime learn how to better utilize it and will start by building applications from examples and using them as my template for the code base that I will be using for this application. 
+
+I would like to primarily build this application using Angular for the time being, until I can grasp the other aspects of the Framework to properly utilize it to continue to build upon the code that I will be implementing. I will be using (StackBlitz)[https://www.stackblitz.com/] to build, develop, and deploy my work onto Firebase as it works seemlessly with the Firebase. That way I can reduce the amount of time I spend figuring out how to get my local environment to work appropriately. 
+
+I also will be needing to think about security as the initialization of a Firebase application provides the rules.json files for each component utilized in the build.
+
+## CMS
+
+I will be learning how to implement a CMS, this time though a package rather than through a installation such as WordPress. This leaves a wide variety of different options available for me to utilize as I become more and more familiar with JavaScript and Node.js. 
+
